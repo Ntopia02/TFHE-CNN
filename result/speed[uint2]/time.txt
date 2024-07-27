@@ -1,0 +1,6 @@
+[TFHE-CNN]: begin conv2, latency is 13129.5s
+[TFHE-CNN]: convolution end, linear1 begin, latency is 4576.53s
+[TFHE-CNN]: begin linear2, latency is 2024.88s
+[TFHE-CNN]: end linear2, latency is 283.165s
+
+
